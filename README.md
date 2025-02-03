@@ -3,10 +3,8 @@
 INFORMATION TECHNOLOGY
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-About
-
+About:
 ---
-
 - 💡 **Aspiring Software Developer** — Passionate about solving problems through code and continuous learning.  
 - 🐍 **Python Enthusiast** — Developing clean, simple scripts while mastering core programming concepts.  
 - ☕ **Java OOP Learner** — Exploring the fundamentals of **Object-Oriented Programming** to build structured, reusable code.  
